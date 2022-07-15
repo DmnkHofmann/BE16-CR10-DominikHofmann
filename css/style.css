@@ -1,0 +1,11 @@
+.library {
+
+    margin: 0 auto;
+    width: 18rem;
+    min-height: 350px;
+}
+
+.library-img {
+
+    height: 250px;
+}
